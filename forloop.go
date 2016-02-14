@@ -9,3 +9,13 @@ func main() {
     i += 1
   }
 }
+
+
+//another way....
+
+func f()  {
+
+  for i:=1;i<=10;i++ {
+    fmt.Println(i)
+  }
+}
